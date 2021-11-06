@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Aspen Finance</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://aspen-finance.local/feed/" rel="self" type="application/rss+xml" />
+	<link>http://aspen-finance.local/</link>
 	<description>Finanças Descentralizada</description>
 	<lastBuildDate>Sat, 23 Oct 2021 19:25:17 +0000</lastBuildDate>
 	<language>pt-BR</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/10/cropped-logo-512x512-1-32x32.png</url>
+	<url>http://aspen-finance.local/wp-content/uploads/2021/10/cropped-logo-512x512-1-32x32.png</url>
 	<title>Aspen Finance</title>
-	<link>/</link>
+	<link>http://aspen-finance.local/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
