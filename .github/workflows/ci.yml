@@ -15,5 +15,4 @@ jobs:
           script: |
             cd /opt/aspenx/NovoSite/
             git pull origin main # we pull any changes from git
-            ./startWebSite.bash & exit
-            exit
+            ./startWebSite.bash | exit
